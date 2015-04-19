@@ -1,0 +1,15 @@
+.command-line {
+  background-color: white;
+  color: black;
+}
+
+.dark .command-line {
+  background-color: grey;
+  color: white;
+}
+
+#cli-toolbar-button {
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+}
